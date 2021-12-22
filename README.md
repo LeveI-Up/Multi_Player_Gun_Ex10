@@ -12,9 +12,8 @@
 * This game using photon components to allow multiplayer play
 
 
-To play the game click [HERE](https://almogre.itch.io/multiplayer-ex10)
+For playing the game click [HERE](https://almogre.itch.io/multiplayer-ex10)
 
 For shooting press the left key on the mouse.
-Use the W,A,S,D keys to control your player.
 
 Try to kill as much players with your weapon as you can!
